@@ -28,3 +28,9 @@ Name,デベロッパーは使うのむずそう．
 - 16.ipynbで，https://qiita.com/fufufukakaka/items/a7316273908a7c400868#%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A8%E6%84%9F%E3%81%98%E3%81%9F%E8%AA%B2%E9%A1%8C%E3%81%AA%E3%81%A9
 これやった
 - 17.ipynbで，publisherごとにまとめたら伸びるとか言うからやったら無理だったんだが
+
+---
+12/07
+- 17.ipynbで，パラメータと，foldと機能できなかったpublisherできた．developperも．
+- 18.ipynbで，BERTしたけど，CVのびてLBかわらずだった．また，publisher他の項目もやったけど，のびんかった．
+- 19.ipynbで，catboost
