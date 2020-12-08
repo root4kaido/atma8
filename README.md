@@ -34,3 +34,10 @@ Name,デベロッパーは使うのむずそう．
 - 17.ipynbで，パラメータと，foldと機能できなかったpublisherできた．developperも．
 - 18.ipynbで，BERTしたけど，CVのびてLBかわらずだった．また，publisher他の項目もやったけど，のびんかった．
 - 19.ipynbで，catboost
+
+---
+12/08
+- 20.ipynbで，年を平均で保管してみたけど微妙だった
+- 21.ipynbで，名前のベクトルも，publishごとにまとめた．publishの，tifだけきいた．
+- 22.ipynbで，年を予測してみたが，精度イマイチだった．
+- 23.ipynbで，13.ipynbを混ぜた．publishをぬかしたらけっこう精度出た．てか，13でも0.9くらいでるんだね．
